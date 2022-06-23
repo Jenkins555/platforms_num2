@@ -1,0 +1,23 @@
+{
+  "name": "platforms_num2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenkins555/platforms_num2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jenkins555/platforms_num2/issues"
+  },
+  "homepage": "https://github.com/Jenkins555/platforms_num2#readme",
+  "dependencies": {
+    "@jenkins555/platforms": "^1.0.0"
+  }
+}
